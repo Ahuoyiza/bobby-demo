@@ -1,0 +1,7 @@
+:root {
+  --debug: 1px solid green;
+}
+
+.home {
+  background-image: url("images/bg/header.jpg");
+}
